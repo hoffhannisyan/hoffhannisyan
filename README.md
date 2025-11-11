@@ -1,12 +1,10 @@
-### Hey there! 👋
+# Hey there! 👋
 
-I'm a Software Engineer with experience across healthcare, fintech, and SaaS, working on both early-stage startups and established products. I build scalable, high-performance backend systems with NestJS and databases like MySQL and PostgreSQL. My focus is on integrations, automation, and system reliability.
+I'm a **Software Engineer** with experience in healthcare and fintech, focused on building reliable backend systems using **Node.js**, **Go**, and **SQL databases**. I enjoy designing scalable architectures, integrating APIs, and improving system performance.
 
-Beyond backend development, I have hands-on experience in AI integrations, working with models like LLaMA, DeepSeek, and Qwen through Ollama AI. I've built intelligent automation pipelines, including data scraping solutions for analytics, insights, and workflow optimization.
+I hold Master's degrees in **Computer Science** and **Economics**, combining strong technical expertise with a solid business perspective.
 
-I've also worked as a Data Mining Specialist, which gives me a unique perspective on backend architecture — designing systems that are both high-performing and data-driven. I enjoy working in agile teams, where I actively engage in technical discussions, peer reviews, and collaborative problem-solving.
-
-I hold Master’s degrees in Computer Science and Economics, giving me the ability to bridge deep technical expertise with a strong business perspective when creating impactful backend systems.
+---
 
 #### Technical Proficiencies 🛠️
 
@@ -22,8 +20,6 @@ I hold Master’s degrees in Computer Science and Economics, giving me the abili
   <img src="https://cdn.simpleicons.org/typescript" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nestjs" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
   <img width="12" />
@@ -41,5 +37,4 @@ I hold Master’s degrees in Computer Science and Economics, giving me the abili
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/selenium" height="40" alt="web scraping logo"  />
 </div>
